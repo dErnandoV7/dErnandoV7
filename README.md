@@ -4,7 +4,6 @@
 
 ![Ernando GitHub stats](https://github-readme-stats.vercel.app/api?username=dErnandoV7&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dErnandoV7&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso:
 
